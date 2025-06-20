@@ -1,1 +1,1 @@
-example-id-line
+https://raw.githubusercontent.com/cookiekingfan8/ghost-burnlist/main/burned.txt
